@@ -1,0 +1,1 @@
+<h1>This are the tersm and condition file</h1>
